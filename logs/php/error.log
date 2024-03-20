@@ -1,0 +1,36 @@
+[13-Mar-2024 07:23:26 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Administrator\Local Sites\planty-boisson\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[13-Mar-2024 07:23:26 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Administrator\Local Sites\planty-boisson\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[13-Mar-2024 07:23:26 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Administrator\Local Sites\planty-boisson\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[13-Mar-2024 07:23:26 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Administrator\Local Sites\planty-boisson\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[13-Mar-2024 07:23:26 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Administrator\Local Sites\planty-boisson\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[13-Mar-2024 07:31:00 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/09/team-skip-04.jpg
+[13-Mar-2024 07:31:00 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2023/09/team-skip-04.jpg
+[13-Mar-2024 07:31:00 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2023\/09\/team-skip-04.jpg","id":0}
+[13-Mar-2024 07:31:00 UTC] PHP Warning:  Undefined array key "engine" in C:\Users\Administrator\Local Sites\planty-boisson\app\public\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 155
+[13-Mar-2024 07:31:00 UTC] team-skip-04.jpg
+[13-Mar-2024 07:31:00 UTC] {"file":"C:\\Users\\Administrator\\Local Sites\\planty-boisson\\app\\public\/wp-content\/uploads\/2024\/03\/team-skip-04.jpg","url":"http:\/\/planty-boisson.local\/wp-content\/uploads\/2024\/03\/team-skip-04.jpg","type":"image\/jpeg","error":false}
+[13-Mar-2024 07:31:00 UTC] {"post_title":"team-skip-04.jpg","guid":"http:\/\/planty-boisson.local\/wp-content\/uploads\/2024\/03\/team-skip-04.jpg"}
+[13-Mar-2024 07:31:04 UTC] BATCH - SUCCESS Image {Imported} - http://planty-boisson.local/wp-content/uploads/2024/03/team-skip-04.jpg
+[13-Mar-2024 07:31:04 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/09/team-skip-25.jpg
+[13-Mar-2024 07:31:04 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2023/09/team-skip-25.jpg
+[13-Mar-2024 07:31:04 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2023\/09\/team-skip-25.jpg","id":0}
+[13-Mar-2024 07:31:04 UTC] PHP Warning:  Undefined array key "engine" in C:\Users\Administrator\Local Sites\planty-boisson\app\public\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 155
+[13-Mar-2024 07:31:04 UTC] team-skip-25.jpg
+[13-Mar-2024 07:31:04 UTC] {"file":"C:\\Users\\Administrator\\Local Sites\\planty-boisson\\app\\public\/wp-content\/uploads\/2024\/03\/team-skip-25.jpg","url":"http:\/\/planty-boisson.local\/wp-content\/uploads\/2024\/03\/team-skip-25.jpg","type":"image\/jpeg","error":false}
+[13-Mar-2024 07:31:04 UTC] {"post_title":"team-skip-25.jpg","guid":"http:\/\/planty-boisson.local\/wp-content\/uploads\/2024\/03\/team-skip-25.jpg"}
+[13-Mar-2024 07:31:05 UTC] BATCH - SUCCESS Image {Imported} - http://planty-boisson.local/wp-content/uploads/2024/03/team-skip-25.jpg
+[13-Mar-2024 07:31:05 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/09/team-skip-06.jpg
+[13-Mar-2024 07:31:05 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2023/09/team-skip-06.jpg
+[13-Mar-2024 07:31:05 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2023\/09\/team-skip-06.jpg","id":0}
+[13-Mar-2024 07:31:05 UTC] PHP Warning:  Undefined array key "engine" in C:\Users\Administrator\Local Sites\planty-boisson\app\public\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\image-importer.php on line 155
+[13-Mar-2024 07:31:06 UTC] team-skip-06.jpg
+[13-Mar-2024 07:31:06 UTC] {"file":"C:\\Users\\Administrator\\Local Sites\\planty-boisson\\app\\public\/wp-content\/uploads\/2024\/03\/team-skip-06.jpg","url":"http:\/\/planty-boisson.local\/wp-content\/uploads\/2024\/03\/team-skip-06.jpg","type":"image\/jpeg","error":false}
+[13-Mar-2024 07:31:06 UTC] {"post_title":"team-skip-06.jpg","guid":"http:\/\/planty-boisson.local\/wp-content\/uploads\/2024\/03\/team-skip-06.jpg"}
+[13-Mar-2024 07:31:07 UTC] BATCH - SUCCESS Image {Imported} - http://planty-boisson.local/wp-content/uploads/2024/03/team-skip-06.jpg
+[13-Mar-2024 07:31:08 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/09/team-skip-04.jpg
+[13-Mar-2024 07:31:08 UTC] Log - {"id":"19","url":"http:\/\/planty-boisson.local\/wp-content\/uploads\/2024\/03\/team-skip-04.jpg"}
+[13-Mar-2024 07:31:08 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/09/team-skip-25.jpg
+[13-Mar-2024 07:31:08 UTC] Log - {"id":"20","url":"http:\/\/planty-boisson.local\/wp-content\/uploads\/2024\/03\/team-skip-25.jpg"}
+[13-Mar-2024 07:31:08 UTC] Source - https://websitedemos.net/wp-content/uploads/2023/09/team-skip-06.jpg
+[13-Mar-2024 07:31:08 UTC] Log - {"id":"21","url":"http:\/\/planty-boisson.local\/wp-content\/uploads\/2024\/03\/team-skip-06.jpg"}
+[19-Mar-2024 21:46:55 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\Administrator\Local Sites\planty-boisson\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
